@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <title>Tarot Web App (MVP)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Tarot Reader (Web MVP)</h1>
+    <div class="subtitle">
+      ใช้ JSON ไพ่ 78 ใบจาก <code>tarot_deck.json</code> เพื่อดึงความหมายไพ่ (ยังไม่ต่อ AI / กล้อง)
+    </div>
+
+    <div class="card">
+      <label for="question">คำถามของคุณ:</label>
+      <textarea id="question" placeholder="พิมพ์คำถาม..."></textarea>
+    </div>
+
+    <div class="card">
+      <div class="row" id="card-selects"></div>
+      <div class="btn-row">
+        <button class="btn-secondary" id="btn-random">สุ่มไพ่ 3 ใบ</button>
+        <button class="btn-primary" id="btn-read">ดูคำทำนาย</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>ผลการทำนาย</h2>
+      <div id="reading-output"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
