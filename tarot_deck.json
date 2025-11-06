@@ -6,14 +6,1791 @@
       "arcana": "major",
       "suit": null,
       "number": 0,
-      "rank": null,
-      "index": 0,
       "meanings": {
         "upright": {
-          "general": "การเริ่มต้นใหม่ ความกล้าลองสิ่งใหม่ ความเป็นอิสระและการเดินทางครั้งใหม่"
+          "general": "The Fool upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Fool upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Fool upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Fool upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Fool upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
         },
         "reversed": {
-          "general": "ความหุนหันพลันแล่น ขาดการวางแผน เสี่ยงโดยไม่คิดให้รอบด้าน"
+          "general": "The Fool reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Fool reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Fool reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Fool reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Fool reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_magician",
+      "name_en": "The Magician",
+      "arcana": "major",
+      "suit": null,
+      "number": 1,
+      "meanings": {
+        "upright": {
+          "general": "The Magician upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Magician upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Magician upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Magician upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Magician upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Magician reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Magician reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Magician reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Magician reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Magician reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_high_priestess",
+      "name_en": "The High Priestess",
+      "arcana": "major",
+      "suit": null,
+      "number": 2,
+      "meanings": {
+        "upright": {
+          "general": "The High Priestess upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The High Priestess upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The High Priestess upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The High Priestess upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The High Priestess upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The High Priestess reversed: ความลังเลหรืออุปสรรค",
+          "love": "The High Priestess reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The High Priestess reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The High Priestess reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The High Priestess reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_empress",
+      "name_en": "The Empress",
+      "arcana": "major",
+      "suit": null,
+      "number": 3,
+      "meanings": {
+        "upright": {
+          "general": "The Empress upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Empress upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Empress upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Empress upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Empress upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Empress reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Empress reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Empress reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Empress reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Empress reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_emperor",
+      "name_en": "The Emperor",
+      "arcana": "major",
+      "suit": null,
+      "number": 4,
+      "meanings": {
+        "upright": {
+          "general": "The Emperor upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Emperor upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Emperor upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Emperor upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Emperor upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Emperor reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Emperor reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Emperor reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Emperor reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Emperor reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_hierophant",
+      "name_en": "The Hierophant",
+      "arcana": "major",
+      "suit": null,
+      "number": 5,
+      "meanings": {
+        "upright": {
+          "general": "The Hierophant upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Hierophant upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Hierophant upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Hierophant upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Hierophant upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Hierophant reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Hierophant reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Hierophant reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Hierophant reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Hierophant reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_lovers",
+      "name_en": "The Lovers",
+      "arcana": "major",
+      "suit": null,
+      "number": 6,
+      "meanings": {
+        "upright": {
+          "general": "The Lovers upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Lovers upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Lovers upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Lovers upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Lovers upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Lovers reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Lovers reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Lovers reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Lovers reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Lovers reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_chariot",
+      "name_en": "The Chariot",
+      "arcana": "major",
+      "suit": null,
+      "number": 7,
+      "meanings": {
+        "upright": {
+          "general": "The Chariot upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Chariot upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Chariot upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Chariot upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Chariot upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Chariot reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Chariot reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Chariot reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Chariot reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Chariot reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "strength",
+      "name_en": "Strength",
+      "arcana": "major",
+      "suit": null,
+      "number": 8,
+      "meanings": {
+        "upright": {
+          "general": "Strength upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Strength upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Strength upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Strength upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Strength upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Strength reversed: ความลังเลหรืออุปสรรค",
+          "love": "Strength reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Strength reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Strength reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Strength reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_hermit",
+      "name_en": "The Hermit",
+      "arcana": "major",
+      "suit": null,
+      "number": 9,
+      "meanings": {
+        "upright": {
+          "general": "The Hermit upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Hermit upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Hermit upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Hermit upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Hermit upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Hermit reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Hermit reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Hermit reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Hermit reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Hermit reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "wheel_of_fortune",
+      "name_en": "Wheel of Fortune",
+      "arcana": "major",
+      "suit": null,
+      "number": 10,
+      "meanings": {
+        "upright": {
+          "general": "Wheel of Fortune upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Wheel of Fortune upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Wheel of Fortune upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Wheel of Fortune upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Wheel of Fortune upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Wheel of Fortune reversed: ความลังเลหรืออุปสรรค",
+          "love": "Wheel of Fortune reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Wheel of Fortune reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Wheel of Fortune reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Wheel of Fortune reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "justice",
+      "name_en": "Justice",
+      "arcana": "major",
+      "suit": null,
+      "number": 11,
+      "meanings": {
+        "upright": {
+          "general": "Justice upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Justice upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Justice upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Justice upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Justice upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Justice reversed: ความลังเลหรืออุปสรรค",
+          "love": "Justice reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Justice reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Justice reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Justice reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_hanged_man",
+      "name_en": "The Hanged Man",
+      "arcana": "major",
+      "suit": null,
+      "number": 12,
+      "meanings": {
+        "upright": {
+          "general": "The Hanged Man upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Hanged Man upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Hanged Man upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Hanged Man upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Hanged Man upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Hanged Man reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Hanged Man reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Hanged Man reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Hanged Man reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Hanged Man reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "death",
+      "name_en": "Death",
+      "arcana": "major",
+      "suit": null,
+      "number": 13,
+      "meanings": {
+        "upright": {
+          "general": "Death upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Death upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Death upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Death upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Death upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Death reversed: ความลังเลหรืออุปสรรค",
+          "love": "Death reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Death reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Death reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Death reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "temperance",
+      "name_en": "Temperance",
+      "arcana": "major",
+      "suit": null,
+      "number": 14,
+      "meanings": {
+        "upright": {
+          "general": "Temperance upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Temperance upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Temperance upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Temperance upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Temperance upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Temperance reversed: ความลังเลหรืออุปสรรค",
+          "love": "Temperance reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Temperance reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Temperance reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Temperance reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_devil",
+      "name_en": "The Devil",
+      "arcana": "major",
+      "suit": null,
+      "number": 15,
+      "meanings": {
+        "upright": {
+          "general": "The Devil upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Devil upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Devil upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Devil upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Devil upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Devil reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Devil reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Devil reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Devil reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Devil reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_tower",
+      "name_en": "The Tower",
+      "arcana": "major",
+      "suit": null,
+      "number": 16,
+      "meanings": {
+        "upright": {
+          "general": "The Tower upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Tower upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Tower upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Tower upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Tower upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Tower reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Tower reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Tower reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Tower reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Tower reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_star",
+      "name_en": "The Star",
+      "arcana": "major",
+      "suit": null,
+      "number": 17,
+      "meanings": {
+        "upright": {
+          "general": "The Star upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Star upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Star upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Star upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Star upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Star reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Star reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Star reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Star reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Star reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_moon",
+      "name_en": "The Moon",
+      "arcana": "major",
+      "suit": null,
+      "number": 18,
+      "meanings": {
+        "upright": {
+          "general": "The Moon upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Moon upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Moon upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Moon upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Moon upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Moon reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Moon reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Moon reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Moon reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Moon reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_sun",
+      "name_en": "The Sun",
+      "arcana": "major",
+      "suit": null,
+      "number": 19,
+      "meanings": {
+        "upright": {
+          "general": "The Sun upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The Sun upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The Sun upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The Sun upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The Sun upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The Sun reversed: ความลังเลหรืออุปสรรค",
+          "love": "The Sun reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The Sun reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The Sun reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The Sun reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "judgement",
+      "name_en": "Judgement",
+      "arcana": "major",
+      "suit": null,
+      "number": 20,
+      "meanings": {
+        "upright": {
+          "general": "Judgement upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "Judgement upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "Judgement upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "Judgement upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "Judgement upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "Judgement reversed: ความลังเลหรืออุปสรรค",
+          "love": "Judgement reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "Judgement reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "Judgement reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "Judgement reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "the_world",
+      "name_en": "The World",
+      "arcana": "major",
+      "suit": null,
+      "number": 21,
+      "meanings": {
+        "upright": {
+          "general": "The World upright: การเริ่มต้นใหม่และพลังบวก",
+          "love": "The World upright: ความรักที่เปิดใจและจริงใจ",
+          "career": "The World upright: โอกาสใหม่ในหน้าที่การงาน",
+          "finance": "The World upright: การเงินมั่นคงหรือได้รับโชค",
+          "advice": "The World upright: ใช้ความมั่นใจและความเชื่อมั่นในตนเอง"
+        },
+        "reversed": {
+          "general": "The World reversed: ความลังเลหรืออุปสรรค",
+          "love": "The World reversed: ความรักที่ไม่มั่นคงหรือสับสน",
+          "career": "The World reversed: งานล่าช้าหรือขาดแรงบันดาลใจ",
+          "finance": "The World reversed: ควรระวังเรื่องการใช้เงิน",
+          "advice": "The World reversed: ตั้งสติและวางแผนใหม่"
+        }
+      }
+    },
+    {
+      "id": "ace_of_wands",
+      "name_en": "Ace of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 1,
+      "meanings": {
+        "upright": {
+          "general": "Ace of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Ace of Wands upright: ความรักและความเข้าใจ",
+          "career": "Ace of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ace of Wands upright: รายรับที่มั่นคง",
+          "advice": "Ace of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ace of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ace of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Ace of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ace of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ace of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "two_of_wands",
+      "name_en": "Two of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 2,
+      "meanings": {
+        "upright": {
+          "general": "Two of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Two of Wands upright: ความรักและความเข้าใจ",
+          "career": "Two of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Two of Wands upright: รายรับที่มั่นคง",
+          "advice": "Two of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Two of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Two of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Two of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Two of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Two of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "three_of_wands",
+      "name_en": "Three of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 3,
+      "meanings": {
+        "upright": {
+          "general": "Three of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Three of Wands upright: ความรักและความเข้าใจ",
+          "career": "Three of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Three of Wands upright: รายรับที่มั่นคง",
+          "advice": "Three of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Three of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Three of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Three of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Three of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Three of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "four_of_wands",
+      "name_en": "Four of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 4,
+      "meanings": {
+        "upright": {
+          "general": "Four of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Four of Wands upright: ความรักและความเข้าใจ",
+          "career": "Four of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Four of Wands upright: รายรับที่มั่นคง",
+          "advice": "Four of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Four of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Four of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Four of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Four of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Four of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "five_of_wands",
+      "name_en": "Five of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 5,
+      "meanings": {
+        "upright": {
+          "general": "Five of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Five of Wands upright: ความรักและความเข้าใจ",
+          "career": "Five of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Five of Wands upright: รายรับที่มั่นคง",
+          "advice": "Five of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Five of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Five of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Five of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Five of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Five of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "six_of_wands",
+      "name_en": "Six of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 6,
+      "meanings": {
+        "upright": {
+          "general": "Six of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Six of Wands upright: ความรักและความเข้าใจ",
+          "career": "Six of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Six of Wands upright: รายรับที่มั่นคง",
+          "advice": "Six of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Six of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Six of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Six of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Six of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Six of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "seven_of_wands",
+      "name_en": "Seven of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 7,
+      "meanings": {
+        "upright": {
+          "general": "Seven of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Seven of Wands upright: ความรักและความเข้าใจ",
+          "career": "Seven of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Seven of Wands upright: รายรับที่มั่นคง",
+          "advice": "Seven of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Seven of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Seven of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Seven of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Seven of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Seven of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "eight_of_wands",
+      "name_en": "Eight of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 8,
+      "meanings": {
+        "upright": {
+          "general": "Eight of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Eight of Wands upright: ความรักและความเข้าใจ",
+          "career": "Eight of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Eight of Wands upright: รายรับที่มั่นคง",
+          "advice": "Eight of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Eight of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Eight of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Eight of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Eight of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Eight of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "nine_of_wands",
+      "name_en": "Nine of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 9,
+      "meanings": {
+        "upright": {
+          "general": "Nine of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Nine of Wands upright: ความรักและความเข้าใจ",
+          "career": "Nine of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Nine of Wands upright: รายรับที่มั่นคง",
+          "advice": "Nine of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Nine of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Nine of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Nine of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Nine of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Nine of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ten_of_wands",
+      "name_en": "Ten of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 10,
+      "meanings": {
+        "upright": {
+          "general": "Ten of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Ten of Wands upright: ความรักและความเข้าใจ",
+          "career": "Ten of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ten of Wands upright: รายรับที่มั่นคง",
+          "advice": "Ten of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ten of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ten of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Ten of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ten of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ten of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "page_of_wands",
+      "name_en": "Page of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 11,
+      "meanings": {
+        "upright": {
+          "general": "Page of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Page of Wands upright: ความรักและความเข้าใจ",
+          "career": "Page of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Page of Wands upright: รายรับที่มั่นคง",
+          "advice": "Page of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Page of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Page of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Page of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Page of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Page of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "knight_of_wands",
+      "name_en": "Knight of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 12,
+      "meanings": {
+        "upright": {
+          "general": "Knight of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Knight of Wands upright: ความรักและความเข้าใจ",
+          "career": "Knight of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Knight of Wands upright: รายรับที่มั่นคง",
+          "advice": "Knight of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Knight of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Knight of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Knight of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Knight of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Knight of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "queen_of_wands",
+      "name_en": "Queen of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 13,
+      "meanings": {
+        "upright": {
+          "general": "Queen of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "Queen of Wands upright: ความรักและความเข้าใจ",
+          "career": "Queen of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "Queen of Wands upright: รายรับที่มั่นคง",
+          "advice": "Queen of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Queen of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Queen of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "Queen of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Queen of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Queen of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "king_of_wands",
+      "name_en": "King of Wands",
+      "arcana": "minor",
+      "suit": "Wands",
+      "number": 14,
+      "meanings": {
+        "upright": {
+          "general": "King of Wands upright: พลังงานเชิงบวกในด้าน wands",
+          "love": "King of Wands upright: ความรักและความเข้าใจ",
+          "career": "King of Wands upright: ความก้าวหน้าและโอกาส",
+          "finance": "King of Wands upright: รายรับที่มั่นคง",
+          "advice": "King of Wands upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "King of Wands reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "King of Wands reversed: ความรักที่มีอุปสรรค",
+          "career": "King of Wands reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "King of Wands reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "King of Wands reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ace_of_cups",
+      "name_en": "Ace of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 1,
+      "meanings": {
+        "upright": {
+          "general": "Ace of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Ace of Cups upright: ความรักและความเข้าใจ",
+          "career": "Ace of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ace of Cups upright: รายรับที่มั่นคง",
+          "advice": "Ace of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ace of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ace of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Ace of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ace of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ace of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "two_of_cups",
+      "name_en": "Two of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 2,
+      "meanings": {
+        "upright": {
+          "general": "Two of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Two of Cups upright: ความรักและความเข้าใจ",
+          "career": "Two of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Two of Cups upright: รายรับที่มั่นคง",
+          "advice": "Two of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Two of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Two of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Two of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Two of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Two of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "three_of_cups",
+      "name_en": "Three of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 3,
+      "meanings": {
+        "upright": {
+          "general": "Three of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Three of Cups upright: ความรักและความเข้าใจ",
+          "career": "Three of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Three of Cups upright: รายรับที่มั่นคง",
+          "advice": "Three of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Three of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Three of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Three of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Three of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Three of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "four_of_cups",
+      "name_en": "Four of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 4,
+      "meanings": {
+        "upright": {
+          "general": "Four of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Four of Cups upright: ความรักและความเข้าใจ",
+          "career": "Four of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Four of Cups upright: รายรับที่มั่นคง",
+          "advice": "Four of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Four of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Four of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Four of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Four of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Four of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "five_of_cups",
+      "name_en": "Five of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 5,
+      "meanings": {
+        "upright": {
+          "general": "Five of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Five of Cups upright: ความรักและความเข้าใจ",
+          "career": "Five of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Five of Cups upright: รายรับที่มั่นคง",
+          "advice": "Five of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Five of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Five of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Five of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Five of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Five of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "six_of_cups",
+      "name_en": "Six of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 6,
+      "meanings": {
+        "upright": {
+          "general": "Six of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Six of Cups upright: ความรักและความเข้าใจ",
+          "career": "Six of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Six of Cups upright: รายรับที่มั่นคง",
+          "advice": "Six of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Six of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Six of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Six of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Six of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Six of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "seven_of_cups",
+      "name_en": "Seven of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 7,
+      "meanings": {
+        "upright": {
+          "general": "Seven of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Seven of Cups upright: ความรักและความเข้าใจ",
+          "career": "Seven of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Seven of Cups upright: รายรับที่มั่นคง",
+          "advice": "Seven of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Seven of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Seven of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Seven of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Seven of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Seven of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "eight_of_cups",
+      "name_en": "Eight of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 8,
+      "meanings": {
+        "upright": {
+          "general": "Eight of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Eight of Cups upright: ความรักและความเข้าใจ",
+          "career": "Eight of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Eight of Cups upright: รายรับที่มั่นคง",
+          "advice": "Eight of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Eight of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Eight of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Eight of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Eight of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Eight of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "nine_of_cups",
+      "name_en": "Nine of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 9,
+      "meanings": {
+        "upright": {
+          "general": "Nine of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Nine of Cups upright: ความรักและความเข้าใจ",
+          "career": "Nine of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Nine of Cups upright: รายรับที่มั่นคง",
+          "advice": "Nine of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Nine of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Nine of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Nine of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Nine of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Nine of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ten_of_cups",
+      "name_en": "Ten of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 10,
+      "meanings": {
+        "upright": {
+          "general": "Ten of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Ten of Cups upright: ความรักและความเข้าใจ",
+          "career": "Ten of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ten of Cups upright: รายรับที่มั่นคง",
+          "advice": "Ten of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ten of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ten of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Ten of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ten of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ten of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "page_of_cups",
+      "name_en": "Page of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 11,
+      "meanings": {
+        "upright": {
+          "general": "Page of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Page of Cups upright: ความรักและความเข้าใจ",
+          "career": "Page of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Page of Cups upright: รายรับที่มั่นคง",
+          "advice": "Page of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Page of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Page of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Page of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Page of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Page of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "knight_of_cups",
+      "name_en": "Knight of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 12,
+      "meanings": {
+        "upright": {
+          "general": "Knight of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Knight of Cups upright: ความรักและความเข้าใจ",
+          "career": "Knight of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Knight of Cups upright: รายรับที่มั่นคง",
+          "advice": "Knight of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Knight of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Knight of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Knight of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Knight of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Knight of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "queen_of_cups",
+      "name_en": "Queen of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 13,
+      "meanings": {
+        "upright": {
+          "general": "Queen of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "Queen of Cups upright: ความรักและความเข้าใจ",
+          "career": "Queen of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "Queen of Cups upright: รายรับที่มั่นคง",
+          "advice": "Queen of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Queen of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Queen of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "Queen of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Queen of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Queen of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "king_of_cups",
+      "name_en": "King of Cups",
+      "arcana": "minor",
+      "suit": "Cups",
+      "number": 14,
+      "meanings": {
+        "upright": {
+          "general": "King of Cups upright: พลังงานเชิงบวกในด้าน cups",
+          "love": "King of Cups upright: ความรักและความเข้าใจ",
+          "career": "King of Cups upright: ความก้าวหน้าและโอกาส",
+          "finance": "King of Cups upright: รายรับที่มั่นคง",
+          "advice": "King of Cups upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "King of Cups reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "King of Cups reversed: ความรักที่มีอุปสรรค",
+          "career": "King of Cups reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "King of Cups reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "King of Cups reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ace_of_swords",
+      "name_en": "Ace of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 1,
+      "meanings": {
+        "upright": {
+          "general": "Ace of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Ace of Swords upright: ความรักและความเข้าใจ",
+          "career": "Ace of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ace of Swords upright: รายรับที่มั่นคง",
+          "advice": "Ace of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ace of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ace of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Ace of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ace of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ace of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "two_of_swords",
+      "name_en": "Two of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 2,
+      "meanings": {
+        "upright": {
+          "general": "Two of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Two of Swords upright: ความรักและความเข้าใจ",
+          "career": "Two of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Two of Swords upright: รายรับที่มั่นคง",
+          "advice": "Two of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Two of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Two of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Two of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Two of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Two of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "three_of_swords",
+      "name_en": "Three of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 3,
+      "meanings": {
+        "upright": {
+          "general": "Three of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Three of Swords upright: ความรักและความเข้าใจ",
+          "career": "Three of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Three of Swords upright: รายรับที่มั่นคง",
+          "advice": "Three of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Three of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Three of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Three of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Three of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Three of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "four_of_swords",
+      "name_en": "Four of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 4,
+      "meanings": {
+        "upright": {
+          "general": "Four of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Four of Swords upright: ความรักและความเข้าใจ",
+          "career": "Four of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Four of Swords upright: รายรับที่มั่นคง",
+          "advice": "Four of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Four of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Four of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Four of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Four of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Four of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "five_of_swords",
+      "name_en": "Five of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 5,
+      "meanings": {
+        "upright": {
+          "general": "Five of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Five of Swords upright: ความรักและความเข้าใจ",
+          "career": "Five of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Five of Swords upright: รายรับที่มั่นคง",
+          "advice": "Five of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Five of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Five of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Five of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Five of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Five of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "six_of_swords",
+      "name_en": "Six of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 6,
+      "meanings": {
+        "upright": {
+          "general": "Six of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Six of Swords upright: ความรักและความเข้าใจ",
+          "career": "Six of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Six of Swords upright: รายรับที่มั่นคง",
+          "advice": "Six of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Six of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Six of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Six of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Six of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Six of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "seven_of_swords",
+      "name_en": "Seven of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 7,
+      "meanings": {
+        "upright": {
+          "general": "Seven of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Seven of Swords upright: ความรักและความเข้าใจ",
+          "career": "Seven of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Seven of Swords upright: รายรับที่มั่นคง",
+          "advice": "Seven of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Seven of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Seven of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Seven of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Seven of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Seven of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "eight_of_swords",
+      "name_en": "Eight of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 8,
+      "meanings": {
+        "upright": {
+          "general": "Eight of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Eight of Swords upright: ความรักและความเข้าใจ",
+          "career": "Eight of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Eight of Swords upright: รายรับที่มั่นคง",
+          "advice": "Eight of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Eight of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Eight of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Eight of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Eight of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Eight of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "nine_of_swords",
+      "name_en": "Nine of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 9,
+      "meanings": {
+        "upright": {
+          "general": "Nine of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Nine of Swords upright: ความรักและความเข้าใจ",
+          "career": "Nine of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Nine of Swords upright: รายรับที่มั่นคง",
+          "advice": "Nine of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Nine of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Nine of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Nine of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Nine of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Nine of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ten_of_swords",
+      "name_en": "Ten of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 10,
+      "meanings": {
+        "upright": {
+          "general": "Ten of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Ten of Swords upright: ความรักและความเข้าใจ",
+          "career": "Ten of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ten of Swords upright: รายรับที่มั่นคง",
+          "advice": "Ten of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ten of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ten of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Ten of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ten of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ten of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "page_of_swords",
+      "name_en": "Page of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 11,
+      "meanings": {
+        "upright": {
+          "general": "Page of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Page of Swords upright: ความรักและความเข้าใจ",
+          "career": "Page of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Page of Swords upright: รายรับที่มั่นคง",
+          "advice": "Page of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Page of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Page of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Page of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Page of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Page of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "knight_of_swords",
+      "name_en": "Knight of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 12,
+      "meanings": {
+        "upright": {
+          "general": "Knight of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Knight of Swords upright: ความรักและความเข้าใจ",
+          "career": "Knight of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Knight of Swords upright: รายรับที่มั่นคง",
+          "advice": "Knight of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Knight of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Knight of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Knight of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Knight of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Knight of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "queen_of_swords",
+      "name_en": "Queen of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 13,
+      "meanings": {
+        "upright": {
+          "general": "Queen of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "Queen of Swords upright: ความรักและความเข้าใจ",
+          "career": "Queen of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "Queen of Swords upright: รายรับที่มั่นคง",
+          "advice": "Queen of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Queen of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Queen of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "Queen of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Queen of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Queen of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "king_of_swords",
+      "name_en": "King of Swords",
+      "arcana": "minor",
+      "suit": "Swords",
+      "number": 14,
+      "meanings": {
+        "upright": {
+          "general": "King of Swords upright: พลังงานเชิงบวกในด้าน swords",
+          "love": "King of Swords upright: ความรักและความเข้าใจ",
+          "career": "King of Swords upright: ความก้าวหน้าและโอกาส",
+          "finance": "King of Swords upright: รายรับที่มั่นคง",
+          "advice": "King of Swords upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "King of Swords reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "King of Swords reversed: ความรักที่มีอุปสรรค",
+          "career": "King of Swords reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "King of Swords reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "King of Swords reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ace_of_pentacles",
+      "name_en": "Ace of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 1,
+      "meanings": {
+        "upright": {
+          "general": "Ace of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Ace of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Ace of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ace of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Ace of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ace of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ace of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Ace of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ace of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ace of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "two_of_pentacles",
+      "name_en": "Two of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 2,
+      "meanings": {
+        "upright": {
+          "general": "Two of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Two of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Two of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Two of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Two of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Two of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Two of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Two of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Two of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Two of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "three_of_pentacles",
+      "name_en": "Three of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 3,
+      "meanings": {
+        "upright": {
+          "general": "Three of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Three of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Three of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Three of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Three of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Three of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Three of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Three of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Three of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Three of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "four_of_pentacles",
+      "name_en": "Four of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 4,
+      "meanings": {
+        "upright": {
+          "general": "Four of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Four of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Four of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Four of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Four of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Four of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Four of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Four of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Four of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Four of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "five_of_pentacles",
+      "name_en": "Five of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 5,
+      "meanings": {
+        "upright": {
+          "general": "Five of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Five of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Five of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Five of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Five of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Five of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Five of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Five of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Five of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Five of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "six_of_pentacles",
+      "name_en": "Six of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 6,
+      "meanings": {
+        "upright": {
+          "general": "Six of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Six of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Six of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Six of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Six of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Six of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Six of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Six of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Six of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Six of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "seven_of_pentacles",
+      "name_en": "Seven of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 7,
+      "meanings": {
+        "upright": {
+          "general": "Seven of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Seven of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Seven of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Seven of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Seven of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Seven of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Seven of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Seven of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Seven of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Seven of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "eight_of_pentacles",
+      "name_en": "Eight of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 8,
+      "meanings": {
+        "upright": {
+          "general": "Eight of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Eight of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Eight of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Eight of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Eight of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Eight of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Eight of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Eight of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Eight of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Eight of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "nine_of_pentacles",
+      "name_en": "Nine of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 9,
+      "meanings": {
+        "upright": {
+          "general": "Nine of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Nine of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Nine of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Nine of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Nine of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Nine of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Nine of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Nine of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Nine of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Nine of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "ten_of_pentacles",
+      "name_en": "Ten of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 10,
+      "meanings": {
+        "upright": {
+          "general": "Ten of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Ten of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Ten of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Ten of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Ten of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Ten of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Ten of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Ten of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Ten of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Ten of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "page_of_pentacles",
+      "name_en": "Page of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 11,
+      "meanings": {
+        "upright": {
+          "general": "Page of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Page of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Page of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Page of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Page of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Page of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Page of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Page of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Page of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Page of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "knight_of_pentacles",
+      "name_en": "Knight of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 12,
+      "meanings": {
+        "upright": {
+          "general": "Knight of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Knight of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Knight of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Knight of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Knight of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Knight of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Knight of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Knight of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Knight of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Knight of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "queen_of_pentacles",
+      "name_en": "Queen of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 13,
+      "meanings": {
+        "upright": {
+          "general": "Queen of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "Queen of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "Queen of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "Queen of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "Queen of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "Queen of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "Queen of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "Queen of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "Queen of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "Queen of Pentacles reversed: ควรชะลอการตัดสินใจ"
+        }
+      }
+    },
+    {
+      "id": "king_of_pentacles",
+      "name_en": "King of Pentacles",
+      "arcana": "minor",
+      "suit": "Pentacles",
+      "number": 14,
+      "meanings": {
+        "upright": {
+          "general": "King of Pentacles upright: พลังงานเชิงบวกในด้าน pentacles",
+          "love": "King of Pentacles upright: ความรักและความเข้าใจ",
+          "career": "King of Pentacles upright: ความก้าวหน้าและโอกาส",
+          "finance": "King of Pentacles upright: รายรับที่มั่นคง",
+          "advice": "King of Pentacles upright: ใช้เหตุผลและการตัดสินใจอย่างรอบคอบ"
+        },
+        "reversed": {
+          "general": "King of Pentacles reversed: ความท้าทายทางอารมณ์หรือพลังงานติดขัด",
+          "love": "King of Pentacles reversed: ความรักที่มีอุปสรรค",
+          "career": "King of Pentacles reversed: ความไม่มั่นคงในงานหรือเป้าหมาย",
+          "finance": "King of Pentacles reversed: ใช้เงินโดยไม่วางแผน",
+          "advice": "King of Pentacles reversed: ควรชะลอการตัดสินใจ"
         }
       }
     }
